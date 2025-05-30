@@ -8,6 +8,6 @@ locals {
   owner        = "hamed"
   tags = {
     team    = "sre"
-    purpose = "production"
+    purpose = "develop"
   }
 }
